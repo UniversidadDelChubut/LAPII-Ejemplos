@@ -11,13 +11,10 @@ public class EjemploCollections {
 		
 		LinkedList<String> nombres = new LinkedList<String>();
 		
-
-		
-		
-		nombres.add( "Moisés");
-		nombres.add( "César");
+		nombres.add( "MoisÃ©s");
+		nombres.add( "CÃ©sar");
 		nombres.add( "Gonzalo");
-		nombres.add( "Matías");
+		nombres.add( "MatÃ­as");
 		nombres.add( "Santiago");
 		nombres.add( "Gonzalo");
 		
