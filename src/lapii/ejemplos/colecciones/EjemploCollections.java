@@ -9,7 +9,7 @@ public class EjemploCollections {
 	public static void main(String[] args) {
 		
 		
-		LinkedList<String> nombres = new LinkedList<String>();
+		List<String> nombres = new LinkedList<String>();
 		
 		nombres.add( "Moisés");
 		nombres.add( "César");
@@ -17,6 +17,7 @@ public class EjemploCollections {
 		nombres.add( "Matías");
 		nombres.add( "Santiago");
 		nombres.add( "Gonzalo");
+		nombres.add( "Pepe");
 		
 		List<String> lista1=new ArrayList<>();
 		lista1.add("Gonzalo");
@@ -43,13 +44,13 @@ public class EjemploCollections {
 		for (String nombre : nombres) {
 			System.out.println(nombre);
 		}
-		
+		/*
 		System.out.println("---ITERADORES---");
 		Iterator <String> i = nombres.descendingIterator();
 		while (i.hasNext()){
 			String s = i.next();
 			System.out.println(s);
-		}
+		}*/
 		
 		
 		

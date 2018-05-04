@@ -30,6 +30,7 @@ public class Persona {
 		personas.add(new Persona(14276579, "MARADONA", "DIEGO ARMANDO", "30/10/1960"));
 		personas.add(new Persona(10520020, "VILAS", "GUILLERMO", "17/08/1952"));
 		personas.add(new Persona(16739553, "SABATINI", "GABRIELA", "21/06/1963"));
+		personas.add(new Persona(14567890, "SABATINI", "OSVALDO", "20/05/1960"));
 		personas.add(new Persona( 2381189, "FAVALORO", "RENE GERONIMO", "14/07/1923"));
 		personas.add(new Persona( 8480435, "TRAVERSO", "JUAN MARIA", "28/12/1950"));
 		return personas;
